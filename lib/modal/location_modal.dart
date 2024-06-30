@@ -1,3 +1,5 @@
+import 'package:logger/logger.dart';
+
 class LocationModal {
   String placeId = "";
   String name = "";
@@ -6,12 +8,23 @@ class LocationModal {
   bool openNow = false;
   String mapUrl = "";
 
+  var log = Logger();
+
   void setFromMap({required dynamic map, String? name}) {
+    // log.d(map["place_id"]);
     placeId = map["place_id"];
+    // log.d(name ?? map["formatted_address"]);
     this.name = name ?? map["formatted_address"];
-    rating = map["user_ratings_total"];
-    openNow = map["opening_hours"]["open_now"];
+    // log.d(map["user_ratings_total"] ?? 0);
+    rating = map["user_ratings_total"] ?? 0;
+    // log.d(map["opening_hours"] != null
+    // ? map["opening_hours"]["open_now"]
+    // : false);
+    openNow =
+        map["opening_hours"] != null ? map["opening_hours"]["open_now"] : false;
+    // log.d(map["url"]);
     mapUrl = map["url"];
+    // log.d(map["formatted_address"]);
     address = map["formatted_address"];
   }
 

@@ -4,7 +4,6 @@ class LocationService {
   Location location = Location();
   bool serviceEnabled = false;
   PermissionStatus locationPermissionState = PermissionStatus.denied;
-
   Future<LocationData?> getCurrentLocationData() async {
     if (locationPermissionState == PermissionStatus.denied) {
       await _getLocationPermission();
