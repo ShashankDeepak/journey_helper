@@ -1,0 +1,839 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AUc7tXVWBrZsXvkdWugpzDrZ1SQ9_CZt91xsemioxAByT6_W-32s2s_oxLCQfrvd6BIoXCUpz_2wKgKu4m32PtwEvWwHTigNoLJARzSwbbuFnAdBur29LeiMF-FUXWqMgDXbzeml9Jv7uR9MOuukg-0UWE7KNgak32u8tDiWgphPZKMh3stPojjpSUbd_axZAPhsOhj2HWa_ogp4ZTnCSXDIzeQo91FUKCwoBn-PsGnaVlQ7M7HfX6p_y2dic60E2r5plsdA_gckDAaU4SiAzLaNrzl9DViKN0ZRiPpoYXokLfnDiVwFeI_f362EUAvt_LcOTev7XcOmBWAIpAjgwcbn24Qdw0wSpAsAFJcTl55wii_ISPRiovxjwVSPf0jbRNlcuXCTtNf_YbYEdGoqm2_OHxF8AZFZhKjTMM89_1YyMdrd",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 25.3176452,
+          "lng": 82.9739144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3956650459947,
+            "lng": 83.0607604515279
+          },
+          "southwest": {
+            "lat": 25.2458603493155,
+            "lng": 82.9214573756749
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Varanasi",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/110895839190733803810\"\u003EJosé David Sánchez de Medina\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXWbJ6-8mZkM0X31f14T8o-YhPnafLEbyqU-LH26gOdGAzbY6Rq8bqn3zPq4QxxXCQ8eD_43GRCk2jY-BN2LevugEXGFonfN0N6fyUJpsrYprSg0LXcqkEn6JpwR4s3MlMKlzMtJbJMgpzMRf4T6meD9MA3ZiemHwSyO8Fw2pEF6fZLw",
+          "width": 3872
+        }
+      ],
+      "place_id": "ChIJTc_rb7ctjjkRtfA_hRAXE2g",
+      "reference": "ChIJTc_rb7ctjjkRtfA_hRAXE2g",
+      "scope": "GOOGLE",
+      "types": ["locality", "political"],
+      "vicinity": "Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3168808,
+          "lng": 82.9734653
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3181963802915,
+            "lng": 82.9748738802915
+          },
+          "southwest": {
+            "lat": 25.3154984197085,
+            "lng": 82.9721759197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel MM Continental",
+      "place_id": "ChIJIUgbkfItjjkR7v8iDq1AR20",
+      "plus_code": {
+        "compound_code": "8X8F+Q9 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X8F+Q9"
+      },
+      "rating": 3.6,
+      "reference": "ChIJIUgbkfItjjkR7v8iDq1AR20",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 11,
+      "vicinity": "The Mall, Cantonment Area, Varanasi Cantt, Varanasi, Uttar Pradesh 221002, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.322281,
+          "lng": 82.986601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3236654302915,
+            "lng": 82.9879666802915
+          },
+          "southwest": {
+            "lat": 25.3209674697085,
+            "lng": 82.9852687197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "International Travellers' Hostel (ITH Stays)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2553,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/103337735708174458999\"\u003EInternational Travellers&#39; Hostel (ITH Stays)\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXUNfepR-d8Q2HsksaBi_BiRtB2dYU47JfdNROfNC2G4jXjHlxO79gq8-d6nBv8GUSLBw7s9xdHIqR-OYSq33rBH5gqK_3ycjEPnKFvCc2Q5a_fdemX6isaGem6Fnsp1sdQdfowT0xPRXE23PlP9beTyHJy1CDSDLtsJuIq8O9nZx41c",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJB__8aOQtjjkRgzT4qMAO-Xc",
+      "plus_code": {
+        "compound_code": "8XCP+WJ Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48XCP+WJ"
+      },
+      "rating": 4.5,
+      "reference": "ChIJB__8aOQtjjkRgzT4qMAO-Xc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 569,
+      "vicinity": "C-32/4, Vidyapeeth Road, Shivpurwa, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3113296,
+          "lng": 82.9857909
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3127343802915,
+            "lng": 82.9871532302915
+          },
+          "southwest": {
+            "lat": 25.3100364197085,
+            "lng": 82.9844552697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Kashi Stay(A complete homestay)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 774,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/116079630940276663287\"\u003EKashi Stay\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXU9S2cOUk4nMmHQOYtJtmPkDlcXc8R9dcTUaIwMDZiXq4IX98CYpCJmByhuCWW3lql_2RGSweL8nOXzoWlXmBpD8imM6BK_115Pww89-n2drBMg7ARVtWbxLsDkZiCJ52LJyuyaVBikQ2UTdx9j__F1rdwBGg8Y_s1ze5-RKxUuETCC",
+          "width": 1032
+        }
+      ],
+      "place_id": "ChIJp66TBvotjjkRpIG6SBKAXxM",
+      "plus_code": {
+        "compound_code": "8X6P+G8 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X6P+G8"
+      },
+      "rating": 4,
+      "reference": "ChIJp66TBvotjjkRpIG6SBKAXxM",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 116,
+      "vicinity": "D/64/94-A-4-K-1, Chandrika Nagar, Sigra, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3216401,
+          "lng": 82.9874973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3229946802915,
+            "lng": 82.9888827302915
+          },
+          "southwest": {
+            "lat": 25.3202967197085,
+            "lng": 82.9861847697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "SANKET SOOD BED AND BREAKFAST VARANASI",
+      "place_id": "ChIJYx5jfuQtjjkRiuhJ0LhFdJM",
+      "plus_code": {
+        "compound_code": "8XCP+MX Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48XCP+MX"
+      },
+      "reference": "ChIJYx5jfuQtjjkRiuhJ0LhFdJM",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "vicinity": "C-6 Annpurna Enclave, Vidyapeeth Road, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3161723,
+          "lng": 82.9676456
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3175030302915,
+            "lng": 82.9689955802915
+          },
+          "southwest": {
+            "lat": 25.3148050697085,
+            "lng": 82.9662976197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Vidhan Travels",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 315,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/110860448170658408927\"\u003EVidhan Travels\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXUcYpxJouV1ompjc2-FnftW0PsFruNP6-yUY2EQQKjQ3foQrHZypdsNPQz146eJAqjCU9naCzksE_18f5pdZeQwJYgf5S4OiBJBkOP7f3QDdyrUSwKcJG_Q0apDFOlL4G-pKV07jhWacfMgKVyhLI_Hzby-jpzsIhluUNpKc68ZBLY7",
+          "width": 559
+        }
+      ],
+      "place_id": "ChIJq6qq6vItjjkRV_hSgwPqjDI",
+      "plus_code": {
+        "compound_code": "8X89+F3 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X89+F3"
+      },
+      "rating": 4.4,
+      "reference": "ChIJq6qq6vItjjkRV_hSgwPqjDI",
+      "scope": "GOOGLE",
+      "types": [
+        "car_rental",
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 944,
+      "vicinity": "D65/460, opposite Police Booth, near Ksheer Sagar Sweet Shop, Lahartara Boulia, Chauraha, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3204375,
+          "lng": 82.9664375
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3216985302915,
+            "lng": 82.9677946802915
+          },
+          "southwest": {
+            "lat": 25.3190005697085,
+            "lng": 82.9650967197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Arvi Guest House",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/103917386461078830793\"\u003EArvi Guest House\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXW6akFgQs9O-ddZLVHDVNvtaAhzqlc0IAfwusn17WzgYHpold4zlPwNb6kGchcho4qdSrjU9t-HHSI58av1-8OP-Ru6LSQmyfnWiY0SIgkctt3fZ-hIhklJueqjQ7iNcNa114zu_mHXn2NReiwBkE1Ax18XqwkUtKeRaHBOa71naube",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJu9Y2K5ItjjkR-gFDMsj7yEs",
+      "plus_code": {
+        "compound_code": "8XC8+5H Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48XC8+5H"
+      },
+      "rating": 3.5,
+      "reference": "ChIJu9Y2K5ItjjkR-gFDMsj7yEs",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 63,
+      "vicinity": "behind OBC Bank, dlw, BHU Road, Sundarpur, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3189638,
+          "lng": 82.9752397
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3204038802915,
+            "lng": 82.9766481302915
+          },
+          "southwest": {
+            "lat": 25.3177059197085,
+            "lng": 82.9739501697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "NE Railway Officers Club",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/115068328576640383070\"\u003EAvinash Sharma\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXU79qvOpUCzvoa5GlSQ7fl9t8IN9win2DenQNLzKzhS_IzMkmgDcLo5RzJ1-t5RVhh5HppFqCnlL4LzfgTiRRFw862TK95iIAVAkrFm8uKTAFOk-xtGDQShUAdmmMJ0FS-_j-jV3JEcH9UEppor9_aQpBUwFFEfuWrpbxyrTgkpqEE",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJVe0Hd-0tjjkRhn28awSS2j0",
+      "rating": 4.1,
+      "reference": "ChIJVe0Hd-0tjjkRhn28awSS2j0",
+      "scope": "GOOGLE",
+      "types": ["night_club", "point_of_interest", "establishment"],
+      "user_ratings_total": 85,
+      "vicinity": "8X9G+H3Q, Lahartara Boulia, Bazardiha, Maheshpur, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.315998,
+          "lng": 82.970265
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3174053302915,
+            "lng": 82.9715785802915
+          },
+          "southwest": {
+            "lat": 25.3147073697085,
+            "lng": 82.9688806197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Nasa Computer Education",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJNX6cFY0tjjkRbkov4_C27UM",
+      "plus_code": {
+        "compound_code": "8X8C+94 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X8C+94"
+      },
+      "rating": 5,
+      "reference": "ChIJNX6cFY0tjjkRbkov4_C27UM",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "D 65/181, G.T. Road, Lahartara, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3194493,
+          "lng": 82.9806773
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3209218302915,
+            "lng": 82.9819699802915
+          },
+          "southwest": {
+            "lat": 25.3182238697085,
+            "lng": 82.9792720197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Divisional Railway Hospital, N.E. Railway, Varanasi",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/101146492617619306139\"\u003EBraj Kishor Prajapati\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXUHrzLwVuqllKmkZ_NM6X5h4bSTBx2x2cng3VaTEAtpXZfb_xQUhNEnC6qCjbcWtIWsmrPXPLvhsepCfcx3wMDd-Cb6DfXJSFIRrVS0A0Km84OvdgyN7FazNYUdniaxqb7i6nHCBkj7WR9StRBwqb8LPw2hlexj_ly1WqYWaXN0MWgm",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJGXSo2-8tjjkRsewd47FXpnw",
+      "plus_code": {
+        "compound_code": "8X9J+Q7 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X9J+Q7"
+      },
+      "rating": 3.5,
+      "reference": "ChIJGXSo2-8tjjkRsewd47FXpnw",
+      "scope": "GOOGLE",
+      "types": ["hospital", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 45,
+      "vicinity": "Old Loco Colony, Shivpurwa, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.314517,
+          "lng": 82.9652989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3158593802915,
+            "lng": 82.9666858802915
+          },
+          "southwest": {
+            "lat": 25.3131614197085,
+            "lng": 82.9639879197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "astrology",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJXyC0g_ItjjkRK_LUL_N0qHA",
+      "plus_code": {
+        "compound_code": "8X78+R4 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X78+R4"
+      },
+      "rating": 5,
+      "reference": "ChIJXyC0g_ItjjkRK_LUL_N0qHA",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "02, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3183397,
+          "lng": 82.9744203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3197629302915,
+            "lng": 82.9757798802915
+          },
+          "southwest": {
+            "lat": 25.3170649697085,
+            "lng": 82.9730819197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Velocious Technology (P) Ltd.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ7TKZeO0tjjkR50LTpdi2CQI",
+      "plus_code": {
+        "compound_code": "8X9F+8Q Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X9F+8Q"
+      },
+      "rating": 5,
+      "reference": "ChIJ7TKZeO0tjjkR50LTpdi2CQI",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "SA 2/398 Daulatpur, Pandeypur, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3139882,
+          "lng": 82.9698514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3153702302915,
+            "lng": 82.9713163302915
+          },
+          "southwest": {
+            "lat": 25.3126722697085,
+            "lng": 82.9686183697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "name": "Sant Kabir Das Temple",
+      "photos": [
+        {
+          "height": 2709,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/108289018578216975624\"\u003EAashish Shandilya\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXXbaFDR6jsMBWmnSOlJkX85IlcgywOcIuiWbsXA0dc_yvQB6_1iHh3BUrT3Lm7NlyndGJ7x6OSctPvPg9Agi1nZH2kaJ5UIfrFIQUrTU0XXhSWIlXaEWM_w5xPijk4sFV4ed2zYOSl6cOy33ForNUH18MQRqux_Z0hpE9jnkoqfyi2R",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJA1tdX4wtjjkR2Vr1WWRfYtE",
+      "plus_code": {
+        "compound_code": "8X79+HW Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X79+HW"
+      },
+      "rating": 4.4,
+      "reference": "ChIJA1tdX4wtjjkR2Vr1WWRfYtE",
+      "scope": "GOOGLE",
+      "types": [
+        "hindu_temple",
+        "park",
+        "hospital",
+        "place_of_worship",
+        "lodging",
+        "school",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "Lahartara Road, Lahartara Boulia, crossing, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3155158,
+          "lng": 82.9794937
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3169296302915,
+            "lng": 82.9808739302915
+          },
+          "southwest": {
+            "lat": 25.3142316697085,
+            "lng": 82.9781759697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Software & Website Development Company Varanasi",
+      "place_id": "ChIJVVVVZfAtjjkRhLtdJgBamjE",
+      "rating": 2.5,
+      "reference": "ChIJVVVVZfAtjjkRhLtdJgBamjE",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "8X8H+6Q5, Chandua Chhittupur, New Loco Colony, Shivpurwa, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3162147,
+          "lng": 82.9678126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3175214302915,
+            "lng": 82.9691638802915
+          },
+          "southwest": {
+            "lat": 25.3148234697085,
+            "lng": 82.9664659197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "KGR Greens Infratech",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/103750351752994483318\"\u003EAnup\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXV6W7-295_iL26eP3WbI1HjnBTUiTIfawV7o2Wmz959dryCfdv2ZRZj3Pk8DsbVAXKgTItOvxWf4ma-45yHOqbwTc3WOR_gnU4-KfxWIZBScXtKWS6kAOLXiaeQTuXNifd0DHEfK1cPWEe3egcxdCdFehxZkCABjB4VvF4VTmzyH8eS",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJdeMclo0tjjkR475Z_svGzxg",
+      "plus_code": {
+        "compound_code": "8X89+F4 Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X89+F4"
+      },
+      "rating": 3.4,
+      "reference": "ChIJdeMclo0tjjkR475Z_svGzxg",
+      "scope": "GOOGLE",
+      "types": ["general_contractor", "point_of_interest", "establishment"],
+      "user_ratings_total": 39,
+      "vicinity": "D-65/461, G.T. Road Lahartara Crossing, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3261817,
+          "lng": 82.9762133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3275918302915,
+            "lng": 82.9777938302915
+          },
+          "southwest": {
+            "lat": 25.3248938697085,
+            "lng": 82.9750958697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "APS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/106667300882636574750\"\u003EDrazersGaming\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXXMc5J_GWrl75T2ciRKxP3lzHCj9Db0ncAz2v--pMmlfDrv5A7lu9xS7KTTqrlKc3gFmdQwlbwDIIRYVud002otoi8hlsKAQfzYCW46vDrAbTxyQEDv0qy7DGMuH9d1mJVQQCBgwzFfXNEMqIjYbkxqQKkzLPEXPbOgq48iF3Y6qMP8",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJnTkIz-stjjkRGxwXfbVqcUw",
+      "plus_code": {
+        "compound_code": "8XGG+FF Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48XGG+FF"
+      },
+      "rating": 4,
+      "reference": "ChIJnTkIz-stjjkRGxwXfbVqcUw",
+      "scope": "GOOGLE",
+      "types": ["school", "point_of_interest", "establishment"],
+      "user_ratings_total": 167,
+      "vicinity": "39 Railway Station G T C, Varanasi cantonment, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.3210374,
+          "lng": 82.9811035
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3224652802915,
+            "lng": 82.9824160302915
+          },
+          "southwest": {
+            "lat": 25.3197673197085,
+            "lng": 82.9797180697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Nar-Indra",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/108535054407616059109\"\u003EPrabhakar Pandey\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXXheMv8-liLK75M65a5BSFizTRE4B21czvXiW0cBGcnLcBKYIeiwHZMFAXvyFIDlVOQoBANsUqN3DuQR8wcc6tMY6S7KUvowrPpL1Xl45u9kpyDxfvSotTEApOis1kyyCEE03mDzrh6SruX3HlapJE79G7qs_B68CdZO5RpeQ0mE3S2",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJn5OHWWcyjjkRF9J0x1dRpRU",
+      "plus_code": {
+        "compound_code": "8XCJ+CC Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48XCJ+CC"
+      },
+      "rating": 2.9,
+      "reference": "ChIJn5OHWWcyjjkRF9J0x1dRpRU",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 65,
+      "vicinity": "P.292,Parade Kothi,G.T. Road Cantt, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.317645,
+          "lng": 82.973913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3189925302915,
+            "lng": 82.9752466802915
+          },
+          "southwest": {
+            "lat": 25.3162945697085,
+            "lng": 82.9725487197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "S.S.CYBER ZONE",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJNx60g_ItjjkRH6gJ8DcLMLM",
+      "reference": "ChIJNx60g_ItjjkRH6gJ8DcLMLM",
+      "scope": "GOOGLE",
+      "types": ["travel_agency", "point_of_interest", "establishment"],
+      "vicinity": "18 B Bhuwaneswar Nagar Colony, Orderly Bazar, Varanasi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 25.318054,
+          "lng": 82.9738636
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3194042802915,
+            "lng": 82.9752321302915
+          },
+          "southwest": {
+            "lat": 25.3167063197085,
+            "lng": 82.9725341697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Om Logistics LTD.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 304,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/100868315805390918942\"\u003EOm Logistics LTD.\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXUmSPlyYdmUlkvP5-eZLYxc31I7rAFSYJXS_IkSg7c2WxfDkOlSrE8FIZax4BN8_Gewklspd0K8lORCzcawf9l6rs2WkON3j50iNnVd7OgVY2lX8lJVsk6mmYykQVvGoF6_RUklXfDD4GDkaw6rHzpqj5RizWY9IQp9jU2jC9RoJKSa",
+          "width": 320
+        }
+      ],
+      "place_id": "ChIJoSW0g_ItjjkRvFx3TqHWTFE",
+      "plus_code": {
+        "compound_code": "8X9F+6G Varanasi, Uttar Pradesh, India",
+        "global_code": "7MQ48X9F+6G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJoSW0g_ItjjkRvFx3TqHWTFE",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 26,
+      "vicinity": "Mahesh Pur Lahartra Block Road, Sliver Grow School, Varanasi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 25.316041,
+          "lng": 82.9680107
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.3208319182243,
+            "lng": 82.9758749637234
+          },
+          "southwest": {
+            "lat": 25.2984889081222,
+            "lng": 82.9463467121485
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Maheshpur",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "\u003Ca href=\"https://maps.google.com/maps/contrib/117569386459617787857\"\u003EMeera S S\u003C/a\u003E"
+          ],
+          "photo_reference": "AUc7tXXIazKVcM7Eq1Tm09LbVeMkV80r6lHjToIy_JFkwOVoB3xNeZowR8U1WOMUoTWr6SCVXe6KlX2zQFUweq1Lz44ybI_tgfTi2IldXHzwtag70fNxeKTH6rsF_R4xBgCCMbCJjNtqOA28Fcgj1X0khKGPeVqIVRvGUL8SN3kwNTD3Hwgh",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJUaTtTI8tjjkRzVIECAi40TU",
+      "reference": "ChIJUaTtTI8tjjkRzVIECAi40TU",
+      "scope": "GOOGLE",
+      "types": ["sublocality_level_1", "sublocality", "political"],
+      "vicinity": "Maheshpur"
+    }
+  ],
+  "status": "OK"
+}
